@@ -45,6 +45,8 @@ class FilmTableViewController: UITableViewController {
         activityIndicator.color = UIColor.gray
         
         navigationItem.title = chosenFilm.title.capitalized
+        self.navigationController?.navigationBar.titleTextAttributes =
+            [NSAttributedString.Key.font: UIFont(name: "Avenir-Heavy", size: 18)!]
         
         loadFilm(chosenFilm.imdbID)
         

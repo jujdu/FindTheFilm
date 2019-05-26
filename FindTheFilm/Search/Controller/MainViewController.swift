@@ -59,6 +59,8 @@ class MainViewController: UIViewController {
         prepareSearchBar()
         prepareTableView()
         loadRecordings()
+        self.navigationController?.navigationBar.titleTextAttributes =
+            [NSAttributedString.Key.font: UIFont(name: "Avenir-Heavy", size: 19)!]
     }
     
     override func viewDidAppear(_ animated: Bool) {
