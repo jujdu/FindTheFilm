@@ -1,7 +1,8 @@
 # Find The Film
+
 A test application for iOS developer vacancy: using OMDb API for async parsing JSON and populate cells by received date.
 
-![alt text]()
+![alt text](https://pp.userapi.com/c851432/v851432104/127c04/g7kyatumvtk.jpg)
 
 For this case, the application observes the status of stage of the aplication. For example, loading or populated. 
 Depending on status I changed tableView, i.e. show animated an activity indicator or show an error desription. Also, this one
