@@ -1,6 +1,6 @@
 # Find The Film
 
-A test application for iOS developer vacancy: using OMDb API for async parsing JSON and populate cells by received date.
+A test application for an iOS developer vacancy: using OMDb API for async parsing JSON and populate cells by received date.
 
 ![alt text](https://pp.userapi.com/c851432/v851432104/127c04/g7kyatumvtk.jpg)
 
