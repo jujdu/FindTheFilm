@@ -14,4 +14,4 @@ For cells in MainVC it uses .xib file to set up templet of the cell.
 
 Parsing and setting execute asynchronously.
 
-The application is using MVC pattern.
+The application is using MVC and Enum patterns.
