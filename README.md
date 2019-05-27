@@ -2,6 +2,9 @@
 
 A test application for an iOS developer vacancy: using OMDb API for async parsing JSON and populate cells by received data.
 
+[Press to watch video demonstration of the application.](https://www.youtube.com/watch?v=5Sb-JelJj6o)
+
+
 ![alt text](https://pp.userapi.com/c851432/v851432104/127c04/g7kyatumvtk.jpg)
 
 For this case, the application observes the status of stage of the aplication. For example, loading or populated. 
